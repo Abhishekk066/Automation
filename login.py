@@ -78,5 +78,5 @@ def brute_force(username, wordlist_path):
 
 if __name__ == "__main__":
     username = '23bth010'  # Replace with the actual username
-    wordlist_path = './pass.txt'
+    wordlist_path = './wordlist.txt'
     brute_force(username, wordlist_path)
